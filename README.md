@@ -5,9 +5,10 @@ In this workshop we invite up to 10 refugees for 5 weeks into our office and exp
 Every week we give for 1.5 hours insight into apprentice topics like HTML, CSS or git. 
 Afterwards the participants have the opportunity to foster their learning in a practical Hands-On workshop.
 
-## How to run this code
+## How to run
 1. Fork this repository
-1. Clone this repository
+1. Clone your 'refugee-workshop' repository
+1. Run `cd refugee-workshop`
 1. Run ```docker-compose up -d```
 1. Open [http://localhost:8081/](http://localhost:8081/)
 1. Start changing code
