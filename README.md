@@ -1,9 +1,6 @@
 # Refugee Workshop
 
-This repository is the base for the Hands-On part of kartenmacherei's workshop for refugees. 
-In this workshop we invite up to 10 refugees for 5 weeks into our office and explain what apprenticeship in germany means and what makes it special at kartenmacherei.
-Every week we give for 1.5 hours insight into apprentice topics like HTML, CSS or git. 
-Afterwards the participants have the opportunity to foster their learning in a practical Hands-On workshop.
+This repository is the base for our kartenmacherei refugees workshop. For a period of 5 weeks we invited 10 refugees into our office to prepare them for an apprenticeship in Germany. Every week our team gave 1 - 2 hours insights into relevant topics such as HTML, CSS or git. Afterwards the participants had the opportunity to foster their learnings in a practical hands-on session. If you want to learn more about the project, take a look at[http://inside.kartenmacherei.de/](http://inside.kartenmacherei.de/).
 
 ## How to run
 1. Fork this repository
